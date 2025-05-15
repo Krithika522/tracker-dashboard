@@ -1,4 +1,5 @@
- Tracker Dashboard
+Tracker Dashboard
+
 A simple and interactive React dashboard using Higher-Order Components (HOC) to track:
 
 ✅ Mouse Position
@@ -10,12 +11,22 @@ A simple and interactive React dashboard using Higher-Order Components (HOC) to 
 Styled with Tailwind CSS.
 
 🚀 Live Demo
-👉 Live Site (Vercel/Netlify link here)
+👉 Live Site https://tracker-dashboard-coral.vercel.app/
+
+## 🖼️ Project Preview
+
+![Tracker Dashboard Preview](/src/assets/tracker-dashboard%20preview.png)
 
 🧠 What I Learned
 How to create and use Higher-Order Components in React
 
 How to reuse logic cleanly using HOCs
+
+his project shows two ways of abstracting logic in React:
+
+✅ Higher-Order Components (HOC)
+
+✅ Custom Hooks (preferred modern approach)
 
 How to track and display browser information (mouse, screen, connection)
 
@@ -31,4 +42,3 @@ Vite
 Tailwind CSS
 
 JavaScript (ES Modules)
-
