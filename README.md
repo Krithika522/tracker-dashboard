@@ -1,16 +1,34 @@
-<<<<<<< HEAD
-# React + Vite
+ Tracker Dashboard
+A simple and interactive React dashboard using Higher-Order Components (HOC) to track:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✅ Mouse Position
 
-Currently, two official plugins are available:
+✅ Window Size
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ Online/Offline Status
 
-## Expanding the ESLint configuration
+Styled with Tailwind CSS.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# tracker-dashboard
->>>>>>> e384c9e9c7e3913f00454e06b6b599b0320a8262
+🚀 Live Demo
+👉 Live Site (Vercel/Netlify link here)
+
+🧠 What I Learned
+How to create and use Higher-Order Components in React
+
+How to reuse logic cleanly using HOCs
+
+How to track and display browser information (mouse, screen, connection)
+
+Setting up Tailwind CSS with Vite
+
+How to chain multiple HOCs
+
+🔧 Tech Stack
+React 19
+
+Vite
+
+Tailwind CSS
+
+JavaScript (ES Modules)
+
